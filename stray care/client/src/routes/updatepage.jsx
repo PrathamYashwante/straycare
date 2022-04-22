@@ -1,6 +1,6 @@
 import React from 'react'
 
-function updatepage() {
+const updatepage = () => {
   return (
     <div>updatepage</div>
   )

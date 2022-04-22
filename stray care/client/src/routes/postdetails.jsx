@@ -1,6 +1,6 @@
 import React from 'react'
 
-function postdetails() {
+const postdetails = () => {
   return (
     <div>postdetails</div>
   )
